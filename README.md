@@ -15,6 +15,10 @@
 ## [Security Idiots](http://www.securityidiots.com/)
 ## [CX Security](https://cxsecurity.com/)
 
+# [LAB](#lab)
+  - [Injection Python Anywhere](https://injection.pythonanywhere.com/)
+
+
 ## OWASP
 
 ### Injection
@@ -123,6 +127,9 @@
   >
 Using order by
   [Total OSCP Guide](https://sushant747.gitbooks.io/total-oscp-guide/content/sql-injections.html)
+  
+  ## Practical
+  [Guru99](https://www.guru99.com/learn-sql-injection-with-practical-example.html)
 
 ### Broken Authentication
 
