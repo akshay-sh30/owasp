@@ -1,6 +1,3 @@
-## [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/index.html)
-## [Web Application Attacks](https://vulp3cula.gitbook.io/hackers-grimoire/exploitation/web-application)
-
 # [OWASP](#owasp)
   - [Injection](#injection)
   - [Broken Authentication](#broken-authentication)
@@ -12,6 +9,10 @@
   - [Insecure Deserialization](#insecure-deserialization)
   - [Components with Known Vulnerabilities](#components-with-known-vulnerabilities)
   - [Insufficent Logging & Monitoring](#insufficent-logging-and-monitoring)
+
+## [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/index.html)
+## [Web Application Attacks](https://vulp3cula.gitbook.io/hackers-grimoire/exploitation/web-application)
+## [Security Idiots](http://www.securityidiots.com/)
 
 ## OWASP
 
