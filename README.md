@@ -1,4 +1,5 @@
 # [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/index.html)
+# [Web Application Attacks](https://vulp3cula.gitbook.io/hackers-grimoire/exploitation/web-application)
 
 # [OWASP](#owasp)
   - [Injection](#injection)
